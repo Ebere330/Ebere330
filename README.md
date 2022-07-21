@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebere330
 - 👀 I’m interested in coding and designing 
-- 🌱 I’m currently learning fullstack.
+- 🌱 I’m currently learning product design.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
 
